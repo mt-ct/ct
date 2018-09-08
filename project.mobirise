@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CloudTalents - An enabler of the cloud computing",
-    "currentPage": "index.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1067,7 +1067,7 @@
     },
     "404.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "An enabler of the cloud computing",
         "title": "404.html",
         "order": 1
       },
